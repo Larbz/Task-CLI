@@ -1,4 +1,6 @@
 # TASK CLI
+
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
 ```
 Use: task-cli <command> [arguments]
 
@@ -20,4 +22,3 @@ Example:
 
 Download for MacOS on: https://github.com/Larbz/Task-CLI/releases/tag/MACOS
 
-Idea from: https://roadmap.sh/projects/task-tracker
