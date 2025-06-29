@@ -17,3 +17,5 @@ Example:
   task-cli make-done 2
 
 ```
+
+Download for MacOS on: https://github.com/Larbz/Task-CLI/releases/tag/MACOS
