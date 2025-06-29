@@ -19,3 +19,5 @@ Example:
 ```
 
 Download for MacOS on: https://github.com/Larbz/Task-CLI/releases/tag/MACOS
+
+Idea from: https://roadmap.sh/projects/task-tracker
